@@ -1,4 +1,4 @@
-# Practical 8 — Deep CNN Architectures
+# Deep CNN Architectures
 
 **Notebook:** `MODELS.ipynb`
 **Companion manual:** *Deep CNN Architectures: Build, Train and Compare in PyTorch*
